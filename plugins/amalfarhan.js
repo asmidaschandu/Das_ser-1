@@ -21,7 +21,7 @@ Amalser.addCommand({pattern: 'git', fromMe: false, desc: 'it send bot menu'}, (a
     
     var i = Math.floor(2*Math.random())
 
-    var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
+    var respoimage = await axios.get(`${r_text[0]}`, { responseType: 'arraybuffer' })
 
     var time = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
 
@@ -44,9 +44,9 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
 *To check update .update   To update Bot .update now*
 
-*githublink* :( *https://github.com/asmidaschandu/Amalser* )
+*githublink* :( https://github.com/asmidaschandu/Amalser )
 
-*WhatsApp group* :( *https://chat.whatsapp.com/CoXJILbV5lt887ecbBP9VL* )
+*WhatsApp group* :( https://chat.whatsapp.com/CoXJILbV5lt887ecbBP9VL )
 
 Das-Ser Hope you Enjoy This Thanku 🥰
 `}) 
