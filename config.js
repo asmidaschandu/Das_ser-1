@@ -31,7 +31,7 @@ module.exports = {
     PHONE: process.env.NUMBER === undefined ? '+919495944713' : process.env.NUMBER,   
     OA_NAME: process.env.DEPLOYER === undefined ? 'Das_ser' : process.env.DEPLOYER,
     ALL: process.env.ALL_CAPTION === undefined ? 'Made By Dasser' : process.env.ALL_CAPTION,
-    LG_LOGO: process.env.LG_LOGO === undefined ? 'https://telegra.ph/file/1986d89402b68b4f4aeca.jpg' : process.env.LG_LOGO,
+    LG_LOGO: process.env.LG_LOGO === undefined ? 'https://telegra.ph/file/7ff55fc258213b7d3b629.jpg' : process.env.LG_LOGO,
     LOGO_NAME: process.env.LOGO_NAME === undefined ? 'Das_ser' : process.env.LOGO_NAME,
     MENTION: process.env.TAG_REPLY === undefined ? '919495944713@s.whatsapp.net' : process.env.TAG_REPLY,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
