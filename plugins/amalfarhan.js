@@ -44,7 +44,9 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
 *To check update .update   To update Bot .update now*
 
-*githublink* :( *https://github.com/Amal-ser/Amalser* )
+*githublink* :( *https://github.com/asmidaschandu/Amalser* )
+
+*WhatsApp group* :( *https://chat.whatsapp.com/CoXJILbV5lt887ecbBP9VL* )
 
 Das-Ser Hope you Enjoy This Thanku 🥰
 `}) 
