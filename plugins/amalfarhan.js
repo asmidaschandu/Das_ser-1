@@ -21,7 +21,7 @@ Amalser.addCommand({pattern: 'git', fromMe: false, desc: 'it send bot menu'}, (a
     
     var i = Math.floor(2*Math.random())
 
-    var respoimage = await axios.get(`${r_text[0]}`, { responseType: 'arraybuffer' })
+    var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     var time = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
 
