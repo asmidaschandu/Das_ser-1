@@ -34,7 +34,7 @@ Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@asmidaschandu/Amalser-2)
   
 ### The Hard Method
 ```js
