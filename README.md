@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/Das-x5">Dasser</a> to make it pub
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@asmidaschandu/Amalser-2)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Das-x5/Dasser)
   
 ### The Hard Method
 ```js
