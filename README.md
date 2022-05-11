@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 15px src="https://www.linkpicture.com/q/IMG-20210819-WA1189.jpg"/>
   <p align="center">
-<a href="#"><img title="Amalser_v2" src="https://img.shields.io/badge/Amalser_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Das_ser_v2" src="https://i.imgur.com/9zRNU2w.jpg"></a>
 </p>
   <p align="center">
-<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-Das-x5/Das_ser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to make it public
+Project created by <a href="https://github.com/Das-x5">Das_ser_v2</a> to make it public
     <br>
        | © |
         Reserved |
@@ -21,7 +21,7 @@ Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberchekuthan/Amalser_v2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Das-x5/Das_ser) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -30,8 +30,8 @@ Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/cyberchekuthan/Amalser_v2
-$ cd Amalser_v2
+$ git clone https://github.com/Das-x5/Das_ser
+$ cd Das_ser
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -39,8 +39,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/cyberchekuthan/Amalser_v2
-$ cd Amalser_v2
+$ git clone https://github.com/Das-x5/Das_ser
+$ cd Das_ser
 $ npm i
 $ node julie.js
 ```
@@ -64,7 +64,7 @@ $ node julie.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Lvtl7GqERfP19Na6M2wndX)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CoXJILbV5lt887ecbBP9VL)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=Julie-Mwol&theme=nightowl)](https://github.com/farhan-dqz/Julie-Mwol)
@@ -81,9 +81,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![AMALSER](https://github.com/cyberchekuthan.png?size=100)](https://github.com/cyberchekuthan) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![DASSER](https://github.com/Das-x5.png?size=100)](https://github.com/Das-x5) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [AMALSER](https://github.com/cyberchekuthan) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[farhan-dqz](https://github.com/farhan-dqz) | [DASSER](https://github.com/Das-x5) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
