@@ -1,3 +1,5 @@
+## _[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=V33A6A&lines=WELCOME+TO+Dαട_ടҽr+WA++BOT++REPO;BOT+OWNER+Dαട)](https://git.io/typing-svg)_
+
 <div align="center">
 
  </a>
