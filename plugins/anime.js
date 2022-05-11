@@ -12,7 +12,7 @@ if (Config.WORKTYPE == 'private') {
 
     r_text[0] = "https://i.ibb.co/FwPP04q/images.jpg";
     r_text[1] = "https://i.ibb.co/GH2tWJ4/images-1.jpg";
-    r_text[2] = "https://i.ibb.co/Mf79pVH/download.jpg";
+    r_text[2] = "https://i.imgur.com/9zRNU2w.jpg";
     r_text[3] = "https://i.ibb.co/b11BDWH/images-2.jpg";
     r_text[4] = "https://i.ibb.co/7v1m94x/images-3.jpg";
     r_text[5] = "https://i.ibb.co/vdKJxNX/images-4.jpg";
@@ -94,7 +94,7 @@ if (Config.WORKTYPE == 'private') {
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: 'Made by Killadi-Mwone'})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: 'Made by Das_ser'})
 
     }));
 }
@@ -106,7 +106,7 @@ else if (Config.WORKTYPE == 'public') {
 
     r_text[0] = "https://i.ibb.co/FwPP04q/images.jpg";
     r_text[1] = "https://i.ibb.co/GH2tWJ4/images-1.jpg";
-    r_text[2] = "https://i.ibb.co/Mf79pVH/download.jpg";
+    r_text[2] = "https://i.imgur.com/9zRNU2w.jpg";
     r_text[3] = "https://i.ibb.co/b11BDWH/images-2.jpg";
     r_text[4] = "https://i.ibb.co/7v1m94x/images-3.jpg";
     r_text[5] = "https://i.ibb.co/vdKJxNX/images-4.jpg";
@@ -188,7 +188,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: 'Made By Killadi-Mwone'})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: 'Made By Das_ser'})
 
     }));
 }
