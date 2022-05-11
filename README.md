@@ -4,14 +4,14 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=photo/amalser.png>
+<img src=https://i.imgur.com/9zRNU2w.jpg>
 </p>
   <p align="center">
-<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-Amal-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Das-x5"><img title="Author" src="https://img.shields.io/badge/Author-Das-x5/Das_ser?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to make it public
+Project created by <a href="https://github.com/Das-x5">Dasser</a> to make it public
     <br>
        | © |
         Reserved |
@@ -22,14 +22,9 @@ Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to
 <div align="center"> 
 
 
-## Click Youtube logo to Watch full video and findout password in this video 👇
-
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/5MKycJxmA4c)
-
-
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/asmidaschandu/Amalser)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Das-x5/Das_ser)
 
 
 
@@ -41,8 +36,8 @@ Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/asmidaschandu/Amalser
-$ cd Amalser
+$ git clone https://github.com/Das-x5/Das_ser
+$ cd Das_ser
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -50,8 +45,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/asmidaschandu/Amalser
-$ cd Amalser
+$ git clone https://github.com/Das-x5/Das_ser
+$ cd Das_ser
 $ npm i
 $ node julie.js
 ```
@@ -59,10 +54,10 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Amal-ser/Amalser">
+  <a href="httsp://github.com/Das-x5/Das_ser">
     
-<a href="https://github.com/Amal-ser/followers">
-<img src="https://img.shields.io/github/repo-size/cyberchekuthan/Amalser_v2?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https://github.com/Das-x5/followers">
+<img src="https://img.shields.io/github/repo-size/Das-x/Das_ser?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Amal-ser/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Amal-ser?color=blue&style=flat-square"></a>
@@ -78,7 +73,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CoXJILbV5lt887ecbBP9VL)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amal-ser&repo=Amalser&theme=nightowl)](https://github.com/Amal-ser/Amalser)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Das-ser&repo=Das_ser&theme=nightowl)](https://github.com/Das-x/Das_ser)
   </div>
     
 ### ⚠ Warning ⚠
@@ -97,14 +92,14 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![Amalser](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919895828468?text=Can%20you%20help%20bro)**
+**[![Das_ser](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919495944713?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![AMALSER](https://github.com/Amal-ser.png?size=100)](https://github.com/Amal-ser) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![DASSER](https://github.com/Das-x5.png?size=100)](https://github.com/Das-x5) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [AMALSER](https://github.com/Amal-ser) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[farhan-dqz](https://github.com/farhan-dqz) | [DASSER](https://github.com/Das-x5) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
